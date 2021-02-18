@@ -1,0 +1,12 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\covid19.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\covid19.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\covid19.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\WebDriver.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\WebDriver.Support.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\WebDriver.xml
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\bin\Debug\WebDriver.Support.xml
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\obj\Debug\covid19.csproj.CopyComplete
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\obj\Debug\covid19.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\obj\Debug\covid19.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\covid19\obj\Debug\covid19.csprojAssemblyReference.cache
